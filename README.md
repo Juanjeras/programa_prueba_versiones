@@ -1,0 +1,1 @@
+Texto de inicio de Git!
